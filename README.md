@@ -31,4 +31,3 @@ The clustering algorithm used is **K-Means**, which groups customers into cluste
 
 Vishal Raj
 Data Analytics & AI/ML Enthusiast
-# customer-segmentation-python
